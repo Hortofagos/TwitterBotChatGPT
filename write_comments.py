@@ -7,7 +7,7 @@ import time
 import keyboard
 import pyperclip
 
-openai.api_key = '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'
+openai.api_key = 'YOUR OPEN AI API KEY'
 
 describe_chatgpt_mission = "Short reply to this Tweet, and refrence that you are searching for python devs. Link in profile: "
 
